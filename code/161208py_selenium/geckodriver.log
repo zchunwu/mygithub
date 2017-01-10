@@ -1,0 +1,91 @@
+1481166535001	geckodriver	INFO	Listening on 127.0.0.1:6160
+1481167302820	geckodriver	INFO	Listening on 127.0.0.1:1277
+1481167307312	geckodriver	INFO	Listening on 127.0.0.1:1442
+1481168026330	geckodriver	INFO	Listening on 127.0.0.1:13556
+1481168138704	geckodriver	INFO	Listening on 127.0.0.1:3314
+1481168159087	geckodriver	INFO	Listening on 127.0.0.1:3984
+1481182179356	geckodriver	INFO	Listening on 127.0.0.1:4652
+1481182352815	geckodriver	INFO	Listening on 127.0.0.1:7601
+1481182492496	geckodriver	INFO	Listening on 127.0.0.1:9908
+1481182581725	geckodriver	INFO	Listening on 127.0.0.1:11304
+1481182589273	geckodriver	INFO	Listening on 127.0.0.1:11421
+1481182678124	geckodriver	INFO	Listening on 127.0.0.1:12801
+1481182710516	geckodriver	INFO	Listening on 127.0.0.1:12974
+1481182712514	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.3YCFE64oS5bu
+1481182712529	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481182712545	geckodriver::marionette	INFO	Connecting to Marionette on localhost:12985
+1481182714950	Marionette	INFO	Listening on port 12985
+1481183418037	geckodriver	INFO	Listening on 127.0.0.1:12109
+1481183419933	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.UGmoCguwR2PN
+1481183419944	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481183419953	geckodriver::marionette	INFO	Connecting to Marionette on localhost:12117
+1481183425002	Marionette	INFO	Listening on port 12117
+1481183446881	geckodriver	INFO	Listening on 127.0.0.1:12185
+1481183448873	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.0P0x4G8Qh2zT
+1481183448917	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481183449020	geckodriver::marionette	INFO	Connecting to Marionette on localhost:12194
+1481183453759	Marionette	INFO	Listening on port 12194
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1481183464179	geckodriver	INFO	Listening on 127.0.0.1:12226
+1481183466179	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.pWSHTwKr8MJC
+1481183466204	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481183466221	geckodriver::marionette	INFO	Connecting to Marionette on localhost:12236
+1481183471395	Marionette	INFO	Listening on port 12236
+1481183574818	geckodriver	INFO	Listening on 127.0.0.1:2388
+1481183576807	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.XCtjeA4ocyTa
+1481183576814	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481183576852	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2399
+1481183582867	Marionette	INFO	Listening on port 2399
+1481183690777	geckodriver	INFO	Listening on 127.0.0.1:2646
+1481183692775	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.H53x8kxAe0mM
+1481183692807	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481183692807	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2656
+1481183696307	Marionette	INFO	Listening on port 2656
+1481183751886	geckodriver	INFO	Listening on 127.0.0.1:2772
+1481183753879	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.HAXbk4Vs8U5m
+1481183753886	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481183753895	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2780
+1481183756028	Marionette	INFO	Listening on port 2780
+1481183784945	geckodriver	INFO	Listening on 127.0.0.1:2882
+1481183786915	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.4DGcF0CFH4Mi
+1481183786923	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481183786933	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2891
+1481183788903	Marionette	INFO	Listening on port 2891
+1481184019355	geckodriver	INFO	Listening on 127.0.0.1:3334
+1481184021346	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.rbHpzoOHjXwP
+1481184021358	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481184021370	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3342
+1481184023821	Marionette	INFO	Listening on port 3342
+1481184159825	geckodriver	INFO	Listening on 127.0.0.1:3492
+1481184161810	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.AKsjASxmMBkW
+1481184161825	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481184161825	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3498
+1481184163399	Marionette	INFO	Listening on port 3498
+[Child 12100] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1481184205158	geckodriver	INFO	Listening on 127.0.0.1:3540
+1481184207143	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.iwn3RLSwUlhu
+1481184207143	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481184207205	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3546
+1481184208699	Marionette	INFO	Listening on port 3546
+1481184300133	geckodriver	INFO	Listening on 127.0.0.1:3629
+1481184302101	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.M7F9m1CWoy6K
+1481184302101	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481184302117	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3637
+1481184303593	Marionette	INFO	Listening on port 3637
+1481186583593	geckodriver	INFO	Listening on 127.0.0.1:9974
+1481186585479	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.ZIUpTQBQeDJf
+1481186585486	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481186585496	geckodriver::marionette	INFO	Connecting to Marionette on localhost:10002
+1481186590581	Marionette	INFO	Listening on port 10002
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 2967: TypeError: this.tabs is undefined
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 2967: TypeError: this.tabs is undefined
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 2967: TypeError: this.tabs is undefined
+1481186622301	geckodriver	INFO	Listening on 127.0.0.1:10363
+1481186624290	mozprofile::profile	INFO	Using profile path C:\Users\ZHUCHU~1\AppData\Local\Temp\rust_mozprofile.2UB0m15RPrTB
+1481186624299	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481186624309	geckodriver::marionette	INFO	Connecting to Marionette on localhost:10387
+1481186628028	Marionette	INFO	Listening on port 10387
+[Child 13360] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13360] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
