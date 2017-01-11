@@ -54,7 +54,7 @@ class CD():    # change name to html and download what is need then delete txt
             self.db.commit()
             print('INSERT')
 
-a = CD(r'H:\data1')
+a = CD(r'K:\data50w')
 a.GINFO()
 
 
