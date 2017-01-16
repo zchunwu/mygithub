@@ -54,14 +54,14 @@ class CD():    # change name to html and download what is need then delete txt
             self.db.commit()
             print('INSERT')
 
-a = CD(r'K:\data50w')
+a = CD(r'H:\zhuchunwu\mysrc\data20w')
 a.GINFO()
 
 
 '''
 ################
 driver = wd.Chrome()
-driver.get(r'F:\项目式文件管理2\1607python学习\161220bjfy\124162.html')
+driver.get(r'F:\项目式文件管��?\1607python学习\161220bjfy\124162.html')
 page = driver.page_source
 
 ################
@@ -70,6 +70,5 @@ time  = doc('.p_date').text()
 title = doc('.h3_22_m_blue').text()
 typ1  = doc('b > span').text()
 content = doc('p > span').text()
-
 ################
 '''
